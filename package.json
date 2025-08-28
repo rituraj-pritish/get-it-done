@@ -1,0 +1,10 @@
+{
+  "name": "getitdone",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run start:dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
